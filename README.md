@@ -1,6 +1,6 @@
 # DisTranslate
 
-[🇷🇺 Русская версия](README.md) | [🇬🇧 English version](README.en.md)
+[🇷🇺 Русская версия](README.md) | [EN English version](README.en.md)
 
 Простой Discord-бот для перевода сообщений на разные языки.  
 Основан на [disnake](https://github.com/DisnakeDev/disnake) и [googletrans](https://pypi.org/project/googletrans/).
